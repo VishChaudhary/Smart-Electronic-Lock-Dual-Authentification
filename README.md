@@ -25,43 +25,43 @@ The components of this project are:
 
 RFID Reader:
 
-SDA - 53
-SCK - 52
-MOSI - 51
-MISO - 50
-IRQ - NOT CONNECTED
-GND - GND
-RST - 5
-3.3 V - 3.3 V
+SDA - 53,
+SCK - 52,
+MOSI - 51,
+MISO - 50,
+IRQ - NOT CONNECTED,
+GND - GND,
+RST - 5,
+3.3 V - 3.3 V,
 
 Keypad:
 
 Left Most Pin to right most pin: 38, 39, 36, 37, 32, 33, 30, 31
 
 Servo:
-GND - GND
-POWER - 5V
-SIGNAL - 9
+GND - GND,
+POWER - 5V,
+SIGNAL - 9,
 
 LCD:
-VSS - GND
-VDD - 5V
-V0 - Wiper
-RS - 13
-RW - GND
-E - 12
-D0 - 49
-D1-  48
-D2 - 46
-D3 - 45
-D4 - 47
-D5 - 4
-D6 - 3
-D7 - 2
-A - 220 ohm resistor, other end of resistor to power
-K - GND
+VSS - GND,
+VDD - 5V,
+V0 - Wiper,
+RS - 13,
+RW - GND,
+E - 12,
+D0 - 49,
+D1-  48,
+D2 - 46,
+D3 - 45,
+D4 - 47,
+D5 - 4,
+D6 - 3,
+D7 - 2,
+A - 220 ohm resistor, other end of resistor to power,
+K - GND,
 Potentiometer - Bottom left- GND, Bottom right - power. Wiper- V0.
 
-  Author: Vish Chaudhary
+Author: Vish Chaudhary
 
-  Github: https://github.com/VishChaudhary
+Github: https://github.com/VishChaudhary
