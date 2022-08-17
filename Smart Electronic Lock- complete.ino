@@ -67,6 +67,7 @@ void setup() {
   SPI.begin();          // Initiate  SPI bus
   mfrc522.PCD_Init();   // Initiate MFRC522
   myservo.attach(9);    // attaches the servo on pin 9 to the servo object
+  myservo.write(0);     // Sets the servo to position 0
   lcd.clear();
   lcd.setCursor(0,0);   //Set the LCD cursor to (0,0)
   lcd.print("Welcome to the");
