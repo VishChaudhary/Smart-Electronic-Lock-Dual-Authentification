@@ -1,4 +1,7 @@
 # Smart-Electronic-Lock-Dual-Authentification-
+
+# Author: Vish Chaudhary
+
 The Smart Electronic Lock is a dual authentication lock that uses a keypad and RFID module as security measures and spins a servo to mimic 'locking' and 'unlocking' a lock.
 
 The components of this project are:
@@ -61,7 +64,5 @@ D7 - 2,
 A - 220 ohm resistor, other end of resistor to power,
 K - GND,
 Potentiometer - Bottom left- GND, Bottom right - power. Wiper- V0.
-
-Author: Vish Chaudhary
 
 Github: https://github.com/VishChaudhary
