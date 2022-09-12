@@ -2,6 +2,8 @@
 
 # Author: Vish Chaudhary
 
+Video Demonstration: https://www.youtube.com/watch?v=mbd0Eo8y9lM&feature=youtu.be
+
 The Smart Electronic Lock is a dual authentication lock that uses a keypad and RFID module as security measures and spins a servo to mimic 'locking' and 'unlocking' a lock.
 
 The components of this project are:
